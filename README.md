@@ -1,16 +1,20 @@
 # coin_app
 
-A new Flutter project.
+An app to tracking the crypto's price. With a user friendly UX/UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+Features:
 
-A few resources to get you started if this is your first Flutter project:
+- Catching up price, status.
+- Add Alert, Add Wallet.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Technologies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Bloc - state management.
+- Http - fetching data.
+
+---
+
+PICS DEMO
+![1](demo_pics/1.png) ![2](demo_pics/2.png) ![3](demo_pics/3.png) ![4](demo_pics/4.png) ![5](demo_pics/5.png)
