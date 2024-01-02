@@ -17,5 +17,5 @@ Technologies:
 ---
 
 PICS DEMO
-![1](demo_pics/1.png =120x) ![2](demo_pics/2.png =120x) ![3](demo_pics/3.png =120x) ![4](demo_pics/4.png =120x) ![5](demo_pics/5.png =120x)
 
+![1](demo_pics/1.png =120x) ![2](demo_pics/2.png =120x) ![3](demo_pics/3.png =120x) ![4](demo_pics/4.png =120x) ![5](demo_pics/5.png =120x)
